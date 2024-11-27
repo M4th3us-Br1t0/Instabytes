@@ -1,0 +1,6 @@
+AIzaSyBxb8tutbX3276S6r5kopINrrxMD12m4nw
+
+matbrit1
+ffcAdtS5IGSDV937
+
+mongodb+srv://matbrit1:ffcAdtS5IGSDV937@cluster0.ghu2q.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
